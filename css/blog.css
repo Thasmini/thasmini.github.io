@@ -146,7 +146,7 @@ input[type="checkbox"] {
 }
 .content {
   position: absolute;
-  top: 230%;
+  top: 310%;
   left: 50%;
   transform: translate(-50%, -50%);
   z-index: -1;
@@ -187,7 +187,7 @@ img {
 
 footer {
   position: relative;
-  top: 8050px;
+  top: 10000px;
 }
 .footer-gray {
   background-color: #000000;
